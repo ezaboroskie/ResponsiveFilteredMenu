@@ -124,6 +124,14 @@ h2{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }   
 
+@media (max-width:1200px){
+    .img-resize{
+        margin: 10%;
+        max-height: 350px;
+        
+    }
+}
+
 @media  (min-width: 1200px) {
     
     body{
